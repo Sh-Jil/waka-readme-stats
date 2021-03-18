@@ -11,7 +11,7 @@ inputs:
   WAKATIME_API_KEY:
     description: 'Your Wakatime API Key'
     required: true
-    default: ${{ github.token }}
+    default: ${{ 71d60e8a-f712-4032-8e75-d8651b58407f }}
  
  SHOW_OS:
     required: false
